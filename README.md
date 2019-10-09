@@ -2,41 +2,25 @@ BOSCore
 ------
 
 ### BOSCore Technical White Paper
+* [English](BOSCoreTechnicalWhitePaper.md)
+* [中文](BOSCoreTechnicalWhitePaper_zh.md) 
 
-- [English](BOSCoreTechnicalWhitePaper.md)
-- [中文](BOSCoreTechnicalWhitePaper_zh.md) 
-
-BOSCore bases on EOSIO, so you can also referer EOS.IO Technical White Paper:  
-- [English](https://github.com/EOSIO/Documentation/blob/master/TechnicalWhitePaper.md)
-- [Russian](https://github.com/EOSIO/Documentation/blob/master/ru-RU/TechnicalWhitePaper.md) translated by [@blockchained](https://steemit.com/@blockchained)
-- [Chinese](https://github.com/EOSIO/Documentation/blob/master/zh-CN/TechnicalWhitePaper.md) translated by [@dayzh](https://steemit.com/@dayzh)
-- [Korean](https://github.com/EOSIO/Documentation/blob/master/ko-KR/TechnicalWhitePaper.md) translated by [@clayop](https://steemit.com/@clayop)
-
+### BET docs
+* [BET DPOS Borda Count Voting Plan](BET/BET_DPOS_Borda_Count_Voting_Plan.md)  
+* [BET DPOS波达计数法投票方案](BET/BET_DPOS波达计数法投票方案.md)  
 
 ### IBC docs
-
-* [IBC User Guide](IBC/README.md)
-* [IBC Design Principles](IBC/EOSIO_IBC_Priciple_and_Design.md)
-* [Deployment Document](IBC/Deployment/README.md)
-* [Token Registration and Management Document](IBC/Token_Registration_and_Management.md)
-* [TestNet Beginner's Guide](IBC/BeginnerGuide/README.md)
-* [Wallet Access document](IBC/WalletAccess/README.md)
-* [Exchange Access Document](IBC/ExchangeAccess/README.md)
-
-# 中文版
-
-* [《IBC设计原理》](IBC/EOSIO_IBC_Priciple_and_Design_zh.md)
-* [《部署文档》](IBC/Deployment/README_CN.md)
-* [《Token注册及管理文档》](IBC/Token_Registration_and_Management.md)
-* [《测试网使用新手指南》](IBC/BeginnerGuide/README_CN.md)
-* [《钱包接入文档》](IBC/WalletAccess/README_CN.md)
-* [《交易所接入文档》](IBC/ExchangeAccess/README_CN.md)
+* [IBC Principles_and_Design](IBC/EOSIO_IBC_Priciple_and_Design.md)  
+* [IBC原理及设计](IBC/EOSIO_IBC_Priciple_and_Design_zh.md)  
+For more documentations, please refer to [docs](https://github.com/boscore/ibc_contracts/tree/master/docs)
 
 ### BOS Batch-PBFT / LIB Acceleration Solution docs
-
-* [基于PBFT提升EOSIO共识速度的算法](LIB/基于PBFT提升EOSIO共识速度的算法.md)
 * [Algorithm for improving EOSIO consensus speed based on Batch-PBFT](LIB/Algorithm_for_improving_EOSIO_consensus_speed_based_on_Batch-PBFT.md)
 * [BOS LIB Acceleration Solution: Batch PBFT](LIB/BOS_Batch_PBFT_I.md)
 * [BOS Batch-PBFT Upgrade Solution](LIB/BOS_Batch_PBFT_II.md)
+* [基于PBFT提升EOSIO共识速度的算法](LIB/基于PBFT提升EOSIO共识速度的算法.md)
 
+### Referendum / WPS Contents
+* [BOS Ecosystem Program(Referendum & WPS)](Referendum_WPS/BOS%20Ecosystem%20Program(Referendum%20%26%20WPS).md)
+* [BOS生态基金方案(含公投&WPS)](Referendum_WPS/BOS%E7%94%9F%E6%80%81%E5%9F%BA%E9%87%91%E6%96%B9%E6%A1%88(%E5%90%AB%E5%85%AC%E6%8A%95%26WPS).md)
 
