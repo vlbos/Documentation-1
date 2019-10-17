@@ -121,7 +121,7 @@ cleos multisig approve bostesterter updatasystem '{"actor":"${BP_NAME}","permiss
 cleos multisig exec bostesterter setcontract -p bostesterter@active
 ```
 
-## 2.5 Config paramter
+## 2.5 Config parameter
 ```
 cleos push action oracle.bos setparameter '{"version":1,"parameters":{"core_symbol":"BOS","precision":4,"min_service_stake_limit":1000,"min_appeal_stake_limit":100,"min_reg_arbitrator_stake_limit":10000,"arbitration_correct_rate":60,"round_limit":3,"arbi_timeout_value":3600,"arbi_freeze_stake_duration":86400,"time_deadline":86400,"clear_data_time_length":10800,"max_data_size":256,"min_provider_limit":1,"max_provider_limit":100,"min_update_cycle":1,"max_update_cycle":8640000,"min_duration":1, "max_duration":8640000,"min_acceptance":1,"max_acceptance":100}}' -p oracle.bos -s -j -d > importwps.json
 ```
